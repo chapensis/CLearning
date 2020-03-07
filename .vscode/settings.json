@@ -2,6 +2,7 @@
     "files.associations": {
         "limits": "c",
         "*.tcc": "c",
-        "type_traits": "c"
+        "type_traits": "c",
+        "iostream": "cpp"
     }
 }
